@@ -10,5 +10,16 @@ Once the libraries are installed, clone the repository in your preferred directo
 git clone https://github.com/OSCAR-CASALS/Space_invaders_clone.git
 ```
 
-After it, you just go to the corresponding repository and compile the program with make, alternatively you can execute the executable A 
+After that, you just go to the corresponding repository and compile the program with make, alternatively, you can run the executable _A_copy_of_you_know_what_ in this same repository.
+
+```
+cd Space_invaders_clone
+
+make
+#Run the recently created executable
+./A_copy_of_you_know_what
+
+# Instead of compiling the code you can run the executable in this same repository.
+./A_copy_of_you_know_what
+```
 
