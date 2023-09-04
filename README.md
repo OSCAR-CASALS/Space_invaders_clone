@@ -37,7 +37,5 @@ Image of the Game Over screen.
 
 ![](Images/GameOver.png)
 
-Image of the victory screen.
-
-![](Images/Victory.png)
+Victory screen? Kill all the aliens to find it.
 
