@@ -29,9 +29,15 @@ Here is what it should appear when running the game, click start to begin playin
 
 ![](Images/Main_menu.png)
 
+Image of how the game looks.
+
 ![](Images/Game.png)
 
+Image of the Game Over screen.
+
 ![](Images/GameOver.png)
+
+Image of the victory screen.
 
 ![](Images/Victory.png)
 
