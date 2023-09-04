@@ -1,0 +1,1 @@
+Sprites used in the game.
