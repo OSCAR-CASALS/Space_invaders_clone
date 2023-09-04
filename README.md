@@ -25,7 +25,13 @@ make
 ./A_copy_of_you_know_what
 ```
 
-Here is what it should appear when running the game, click start to begin the playing.
+Here is what it should appear when running the game, click start to begin playing.
 
 ![](Images/Main_menu.png)
+
+![](Images/Game.png)
+
+![](Images/GameOver.png)
+
+![](Images/Victory.png)
 
