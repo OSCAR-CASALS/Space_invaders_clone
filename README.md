@@ -2,7 +2,7 @@
 A clone of the classic Space Invaders made with SDL2.
 
 ## How to install
-To use this program you must have installed SDL2, SDL_image and SDL_ttf, which can be installed with the following commands.
+To use this program you must have installed SDL2, SDL2_image and SDL2_ttf, which can be installed with the following commands.
 ```
 sudo apt-get install libsdl2-dev
 sudo apt-get install libsdl2-image-2.0-0-dev
@@ -24,4 +24,7 @@ make
 #Run the recently created executable
 ./A_copy_of_you_know_what
 ```
+
+Here is what it should appear when running the game, click start to begin the playing.
+![Images/menu_image.png]
 
