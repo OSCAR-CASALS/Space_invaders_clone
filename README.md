@@ -27,5 +27,5 @@ make
 
 Here is what it should appear when running the game, click start to begin the playing.
 
-![](Images/menu_image.png)
+![](Images/Main_menu.png)
 
