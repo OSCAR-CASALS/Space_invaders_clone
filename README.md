@@ -39,3 +39,6 @@ Image of the Game Over screen.
 
 Victory screen? Kill all the aliens to find it.
 
+## Reference
+Shaun Ross Mitchell."SDL Game Developement", June 2013.
+
