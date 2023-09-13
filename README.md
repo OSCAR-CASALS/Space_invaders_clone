@@ -9,6 +9,8 @@ sudo apt-get install libsdl2-image-2.0-0-dev
 sudo apt-get install libsdl2-ttf-dev
 ```
 
+### **If you don't have this libraries installed, you can just use the executable provided in this github instead of compiling the code yourself.**
+
 Once the libraries are installed, clone the repository in your preferred directory using git clone.
 
 ```
